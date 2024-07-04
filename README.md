@@ -1,26 +1,12 @@
-![](images/github-header-stats-image.png)
+# The Odin Project - Homepage Portfolio Landing Page
 
-# Frontend Mentor - Stats preview card component solution
-
-This is a solution to the [The Advanced CSS3 Homepage for practise](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage).
+This is a solution to the [Capstone project for the Advanced HTML and CSS Course of The Odin Project](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage).
 
 ![](design/portfolio.png)
 
-<!-- ## Table of contents -->
-
-<!-- - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments) -->
-
 ### The challenge
 
-Users should be able to:
-
-- Build the homepage portfolio homepage to be close to the design as possible.
+- Building the project to be close to the design as much as possible.
 
 - This is a good project to practise CSS stacking context.
 
@@ -43,6 +29,7 @@ Users should be able to:
 
 - Proper image sizing and control.
 - How to combine Flexbox and Grid to achieve responsive layouts.
+- More practise on CSS stacking context
 
 ## Author
 
@@ -51,4 +38,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-I want to acknowledge all open source engineers and maintainers, and every engineer who freely share their knowledge and insights with the community for others to learn as well. I appreciate you a lot ❤️ 💯
+The Odin Project
